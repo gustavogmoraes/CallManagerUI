@@ -1,0 +1,15 @@
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\obj\Debug\GerenciadorDeChamadas.csprojAssemblyReference.cache
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\obj\Debug\GerenciadorDeChamadas.Properties.Resources.resources
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\obj\Debug\GerenciadorDeChamadas.csproj.GenerateResource.cache
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\obj\Debug\GerenciadorDeChamadas.csproj.CoreCompileInputs.cache
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\bin\Debug\GerenciadorDeChamadas.exe.config
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\bin\Debug\GerenciadorDeChamadas.exe
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\bin\Debug\GerenciadorDeChamadas.pdb
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\bin\Debug\Google.Protobuf.dll
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\bin\Debug\MySql.Data.dll
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\bin\Debug\Google.Protobuf.xml
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\bin\Debug\MySql.Data.xml
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\obj\Debug\GerenciadorDeChamadas.csproj.CopyComplete
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\obj\Debug\GerenciadorDeChamadas.exe
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\obj\Debug\GerenciadorDeChamadas.pdb
+C:\Users\gustavomoraes\source\repos\GerenciadorDeChamadas\GerenciadorDeChamadas\obj\Debug\GerenciadorDeChamadas.Form1.resources
